@@ -1,2 +1,2 @@
 # Complex-Hull-3D
-Trabalho da disciplina de "Introdução à Modelagem Matemática - 2º semestre", do curso de Matemática Aplicada e Computação Científica feito em grupo. Seu objetivo era resolver o "problema da visibilidade direta em nuvem de pontos" utilizando HPR, Fecho Convexo e Quickhull e deveria ser implementado em 3D 
+(Homepage) This is a group project for the "Introduction to Mathematical Modeling - 2nd semester" course in Applied Mathematics and Scientific Computing. Its objective was to solve the "direct visibility of point sets problem" using HPR, Convex Hull, and Quickhull, implemented in 3D. The project is in portuguese.
